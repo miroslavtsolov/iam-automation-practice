@@ -1,0 +1,6 @@
+employee_id,full_name,email,status
+1001,Alice Johnson,,active
+1002,Bob Smith,bob.smith@example.com,active
+1003,Carla Diaz,carla.diaz@example.com,terminated
+1004,Dana Lee,dana.lee@example.com,active
+1005,Olivia Parker,,active
